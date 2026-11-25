@@ -5,6 +5,9 @@ Final fine-tuned model for the broader compiled dataset
 Preprint can be found at: 
 https://doi.org/10.48550/arXiv.2611.18490
 
+Main fine-tuned model is located in Model.7z
+
+Files compressed with 7zip.
 
 Acknowledgements
 
